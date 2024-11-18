@@ -1,0 +1,1 @@
+Created Backend for the demo MERN site which displays and stores information of some hand selected movies using MONGO DB as the database, Spring Boot as the base working framework used to write the backend points connected using REST API's functionalities, further tested using POSTMAN.
